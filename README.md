@@ -5,6 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5563992462665&text=Hi!)](https://api.whatsapp.com/send?phone=5563992462665&text=Hi!)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/claysllanxavier/)](https://www.twitter.com/claysllanxavier/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/claysllanxavier/)](https://www.facebook.com/claysllanxavier/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/claysllanxavier/)](https://www.linkedin.com/in/claysllanxavier/)
 
 ### 💻 my favorite stack:
 - React Native ❤
